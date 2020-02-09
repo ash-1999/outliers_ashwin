@@ -19,7 +19,7 @@ setuptools.setup(
     long_description="",
     long_description_content_type="text/markdown",
     url="https://github.com/ash-1999/outliers_ashwin",
-    download_url="https://github.com/ash_1999/outliers_ashwin/archive/0.0.3.tar.gz",
+    download_url="https://github.com/ash-1999/outliers_ashwin/archive/0.03.tar.gz",
     packages=["outliers_ashwin"],
     classifiers=[
         "Programming Language :: Python :: 3",
